@@ -10,14 +10,16 @@ Official Game can be found here: https://play.google.com/store/apps/details?id=c
 
 #### **Ticketing System for Management**
 
-![image](https://github.com/Erebonia/slayer-legend-discord-bot/assets/52137104/02074aac-01f6-4d06-a9d4-094edd064565)
+![image](https://github.com/Erebonia/Discord-Bot-Slayer-Legend-Public/assets/52137104/138bd2fe-bb58-4120-b29b-5fbe3bc2140c)
 
 #### **Command List:**
 
-![image](https://github.com/Erebonia/slayer-legend-discord-bot/assets/52137104/0e81c4bf-18cc-4d2b-a887-a740e68562ac)
+![image](https://github.com/Erebonia/Discord-Bot-Slayer-Legend-Public/assets/52137104/19dc9768-eba1-48e7-ae59-a0696c2fe4e9)
+
 
 #### **Sample Output:**
 
-![image](https://github.com/Erebonia/slayer-legend-discord-bot/assets/52137104/ee1fec80-81bc-4700-9d48-5f93057a16d6)
+![image](https://github.com/Erebonia/Discord-Bot-Slayer-Legend-Public/assets/52137104/62fe3dfd-e52d-43d2-9a74-14c93879c0d2)
+
 
 
