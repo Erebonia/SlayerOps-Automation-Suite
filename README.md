@@ -1,4 +1,4 @@
-# Join the discord with over 11,000 Members! 
+# Join the discord with over 16,000 Members! 
 
 Our Discord: https://discord.gg/slayerlegend
 
