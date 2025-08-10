@@ -2,6 +2,8 @@
 
 Our Discord: https://discord.gg/slayerlegend
 
+<img width="526" height="296" alt="image" src="https://github.com/user-attachments/assets/0a647bb7-32ee-4f34-9e01-705afcba833d" />
+
 Official Game can be downloaded here: https://play.google.com/store/apps/details?id=com.gear2.growslayer&hl=en_US&gl=US
 
 # ⚔️ Slayer Legend Discord Bot
